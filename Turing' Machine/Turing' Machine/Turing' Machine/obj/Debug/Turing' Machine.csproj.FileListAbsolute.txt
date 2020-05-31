@@ -1,0 +1,29 @@
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Turing' Machine\Turing' Machine\obj\Debug\Turing' Machine.csprojAssemblyReference.cache
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Turing' Machine\Turing' Machine\obj\Debug\Turing__Machine.Properties.Resources.resources
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Turing' Machine\Turing' Machine\obj\Debug\Turing' Machine.csproj.GenerateResource.cache
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Turing' Machine\Turing' Machine\obj\Debug\Turing' Machine.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Turing' Machine\Turing' Machine\bin\Debug\Turing' Machine.exe.config
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Turing' Machine\Turing' Machine\bin\Debug\Turing' Machine.exe
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Turing' Machine\Turing' Machine\bin\Debug\Turing' Machine.pdb
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Turing' Machine\Turing' Machine\obj\Debug\Turing' Machine.exe
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Turing' Machine\Turing' Machine\obj\Debug\Turing' Machine.pdb
+C:\Users\User\OneDrive - НИУ Высшая школа экономики\Программирование\Turing' Machine\Turing' Machine\obj\Debug\Turing__Machine.MainMenu.resources
+C:\Users\Margo\Downloads\Turing_39_Machine\Turing' Machine\Turing' Machine\bin\Debug\Turing' Machine.exe.config
+C:\Users\Margo\Downloads\Turing_39_Machine\Turing' Machine\Turing' Machine\bin\Debug\Turing' Machine.exe
+C:\Users\Margo\Downloads\Turing_39_Machine\Turing' Machine\Turing' Machine\bin\Debug\Turing' Machine.pdb
+C:\Users\Margo\Downloads\Turing_39_Machine\Turing' Machine\Turing' Machine\obj\Debug\Turing' Machine.csprojAssemblyReference.cache
+C:\Users\Margo\Downloads\Turing_39_Machine\Turing' Machine\Turing' Machine\obj\Debug\Turing__Machine.MainMenu.resources
+C:\Users\Margo\Downloads\Turing_39_Machine\Turing' Machine\Turing' Machine\obj\Debug\Turing__Machine.Properties.Resources.resources
+C:\Users\Margo\Downloads\Turing_39_Machine\Turing' Machine\Turing' Machine\obj\Debug\Turing' Machine.csproj.GenerateResource.cache
+C:\Users\Margo\Downloads\Turing_39_Machine\Turing' Machine\Turing' Machine\obj\Debug\Turing' Machine.exe
+C:\Users\Margo\Downloads\Turing_39_Machine\Turing' Machine\Turing' Machine\obj\Debug\Turing' Machine.pdb
+D:\users\SPepelyaev\source\repos\Turing' Machine\Turing' Machine\bin\Debug\Turing' Machine.exe.config
+D:\users\SPepelyaev\source\repos\Turing' Machine\Turing' Machine\bin\Debug\Turing' Machine.exe
+D:\users\SPepelyaev\source\repos\Turing' Machine\Turing' Machine\bin\Debug\Turing' Machine.pdb
+D:\users\SPepelyaev\source\repos\Turing' Machine\Turing' Machine\obj\Debug\Turing' Machine.csprojAssemblyReference.cache
+D:\users\SPepelyaev\source\repos\Turing' Machine\Turing' Machine\obj\Debug\Turing__Machine.MainMenu.resources
+D:\users\SPepelyaev\source\repos\Turing' Machine\Turing' Machine\obj\Debug\Turing__Machine.Properties.Resources.resources
+D:\users\SPepelyaev\source\repos\Turing' Machine\Turing' Machine\obj\Debug\Turing' Machine.csproj.GenerateResource.cache
+D:\users\SPepelyaev\source\repos\Turing' Machine\Turing' Machine\obj\Debug\Turing' Machine.csproj.CoreCompileInputs.cache
+D:\users\SPepelyaev\source\repos\Turing' Machine\Turing' Machine\obj\Debug\Turing' Machine.exe
+D:\users\SPepelyaev\source\repos\Turing' Machine\Turing' Machine\obj\Debug\Turing' Machine.pdb
